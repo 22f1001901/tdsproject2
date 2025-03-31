@@ -26,6 +26,3 @@ tiktoken==0.7.0
 fastapi
 uvicorn
 openai
-importlib
-zipfile
-mangum
