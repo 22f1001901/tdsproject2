@@ -27,6 +27,5 @@ fastapi
 uvicorn
 openai
 importlib
-json
 zipfile
 mangum
